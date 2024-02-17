@@ -49,7 +49,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+“Just as one’s imagination is stirred by a girl’s smile, so is one’s imagination stirred by the possibilities of chess.”
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Esat33&limit=5&theme=dark&combine_all_yearly_contributions=true)

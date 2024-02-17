@@ -48,7 +48,7 @@
 
 
 
-### ✍️ Random Dev Quote
+### Mihail Tal
 “Just as one’s imagination is stirred by a girl’s smile, so is one’s imagination stirred by the possibilities of chess.”
 
 ### 🔝 Top Contributed Repo
